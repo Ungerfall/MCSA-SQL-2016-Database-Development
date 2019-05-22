@@ -20,3 +20,10 @@ INNER JOIN dbo.CustLocations AS CL
 ON EXISTS (SELECT EL.country, EL.region, EL.city
 INTERSECT
 SELECT CL.country, CL.region, CL.city);
+
+SELECT EL.country, EL.region, EL.city, EL.numemps, CL.numcusts
+FROM dbo.EmpLocations AS EL
+INNER JOIN dbo.CustLocations AS CL
+ON EL.country = CL.country
+AND ISNULL(EL.region, N'<N/A>') = ISNULL(CL.region, N'<N/A>')
+AND EL.city = CL.city;
