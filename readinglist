@@ -11,3 +11,7 @@
 10. https://www.itprotoday.com/sql-server/sequences-part-1
 11. https://www.itprotoday.com/sql-server/sequences-part-2
 12. https://www.itprotoday.com/sql-server/sequence-and-identity-performance
+
+13. [the data loading performance guide](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd425070(v=sql.100))
+
+14. [merge-statement-tips](https://www.itprotoday.com/sql-server/merge-statement-tips)
