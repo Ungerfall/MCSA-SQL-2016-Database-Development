@@ -1,25 +1,25 @@
-1. SQL and Relational Theory 3rd edition
-2. http://sqlmag.com/sql-server/logical-query-processing-what-it-and-what-itmeans-you
-3. http://sqlmag.com/sql-server/logical-query-processing-clause-and-joins
-4. http://sqlmag.com/sql-server/logical-query-processing-clause-and-apply
-5. http://sqlmag.com/sql-server/logical-query-processing-clause-and-pivot
-6. http://sqlmag.com/sql-server/logical-query-processing-part-5-clause-andunpivot
-7. http://sqlmag.com/sql-server-2016/logical-query-processing-part-6-whereclause
-8. http://sqlmag.com/sql-server/logical-query-processing-part-7-group-andhaving
-9. http://sqlmag.com/sql-server/logical-query-processing-part-8-select-and-order
+1. [ ] SQL and Relational Theory 3rd edition
+2. [x] http://sqlmag.com/sql-server/logical-query-processing-what-it-and-what-itmeans-you
+3. [x] http://sqlmag.com/sql-server/logical-query-processing-clause-and-joins
+4. [x] http://sqlmag.com/sql-server/logical-query-processing-clause-and-apply
+5. [x] http://sqlmag.com/sql-server/logical-query-processing-clause-and-pivot
+6. [x] http://sqlmag.com/sql-server/logical-query-processing-part-5-clause-andunpivot
+7. [x] http://sqlmag.com/sql-server-2016/logical-query-processing-part-6-where-clause
+8. [x] http://sqlmag.com/sql-server/logical-query-processing-part-7-group-andhaving
+9. [x] http://sqlmag.com/sql-server/logical-query-processing-part-8-select-and-order
 
-10. https://www.itprotoday.com/sql-server/sequences-part-1
-11. https://www.itprotoday.com/sql-server/sequences-part-2
-12. https://www.itprotoday.com/sql-server/sequence-and-identity-performance
+10. [ ] https://www.itprotoday.com/sql-server/sequences-part-1
+11. [ ] https://www.itprotoday.com/sql-server/sequences-part-2
+12. [ ] https://www.itprotoday.com/sql-server/sequence-and-identity-performance
 
-13. [the data loading performance guide](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd425070(v=sql.100))
+13. [ ]  [the data loading performance guide](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd425070(v=sql.100))
 
-14. [merge-statement-tips](https://www.itprotoday.com/sql-server/merge-statement-tips)
+14. [ ]  [merge-statement-tips](https://www.itprotoday.com/sql-server/merge-statement-tips)
 
 
-15. [window-aggregate-function](https://www.itprotoday.com/sql-server/what-you-need-know-about-batch-mode-window-aggregate-operator-sql-server-2016-part-3)
-16. [how-to-write-window-functions](http://sqlmag.com/sql-server-2012/microsoft-sql-server-2012-how-write-t-sql-window-functions-part-2)
+15. [ ]  [window-aggregate-function](https://www.itprotoday.com/sql-server/what-you-need-know-about-batch-mode-window-aggregate-operator-sql-server-2016-part-3)
+16. [ ]  [how-to-write-window-functions](http://sqlmag.com/sql-server-2012/microsoft-sql-server-2012-how-write-t-sql-window-functions-part-2)
 
-17. [Run, total, run!](https://youtu.be/KM83eVqHHPA)
+17. [x]  [Run, total, run!](https://youtu.be/KM83eVqHHPA)
 
-18. [For XML](https://docs.microsoft.com/en-us/sql/relational-databases/xml/for-xml-sql-server?view=sql-server-2017)
+18. [ ]  [For XML](https://docs.microsoft.com/en-us/sql/relational-databases/xml/for-xml-sql-server?view=sql-server-2017)
