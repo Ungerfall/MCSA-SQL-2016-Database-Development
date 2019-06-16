@@ -30,3 +30,4 @@
 
 23. [ ]  [JSON ECMA 404](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 24. [ ]  [Format as JSON](https://docs.microsoft.com/en-us/sql/relational-databases/json/format-query-results-as-json-with-for-json-sql-server?view=sql-server-2017)
+25. [ ]  [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-2017)
