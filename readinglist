@@ -35,3 +35,6 @@
 26. [ ]  [UDF-limitations-restrictions](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/create-user-defined-functions-database-engine?view=sql-server-2017)
 
 27. [ ]  [row-level-security](https://docs.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-2017)
+
+28. [ ]  [dynamic-sql](http://www.sommarskog.se/dynamic_sql.html)
+29. [ ]  [permissions-in-sp](http://www.sommarskog.se/grantperm.html)
