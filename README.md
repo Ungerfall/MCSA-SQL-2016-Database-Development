@@ -2,6 +2,11 @@
 
 exam preparation material, which I read, learned etc. throughout the prepartion, e.g. scripts, links, books, quizs.
 
+### database
+
+* https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0
+* https://github.com/Ungerfall/exam-70-761/blob/master/TSQLV4.zip
+
 ### reading list
 
 1. SQL and Relational Theory 3rd edition
