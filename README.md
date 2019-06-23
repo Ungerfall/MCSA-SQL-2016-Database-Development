@@ -36,3 +36,12 @@ exam preparation material, which I read, learned etc. throughout the prepartion,
 25. [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-2017)
 26. [UDF-limitations-restrictions](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/create-user-defined-functions-database-engine?view=sql-server-2017)
 27. [row-level-security](https://docs.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-2017)
+
+### quizlet
+
+1. [70-761](https://quizlet.com/_6t8ywj)
+2. [70-461](https://quizlet.com/_5qbjqn)
+
+### google forms
+
+1. [70-461](https://forms.gle/sKgjDTGhpLYeRhkp9)
