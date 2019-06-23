@@ -1,6 +1,6 @@
-# exam-70-761
+# MCSA: SQL 2016 Database Development
 
-exam preparation material, which I read, learned etc. throughout the prepartion, e.g. scripts, links, books, quizs.
+70-761 and 70-762 exams preparation material, which I read, learned etc. throughout the prepartion, e.g. scripts, links, books, quizs.
 
 ### database
 
@@ -8,6 +8,8 @@ exam preparation material, which I read, learned etc. throughout the prepartion,
 * https://github.com/Ungerfall/exam-70-761/blob/master/TSQLV4.zip
 
 ### reading list
+
+#### 70-761
 
 1. SQL and Relational Theory 3rd edition
 2. [logical-query-processing](http://sqlmag.com/sql-server/logical-query-processing-what-it-and-what-itmeans-you)
