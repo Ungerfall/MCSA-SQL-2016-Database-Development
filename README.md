@@ -38,6 +38,13 @@
 25. [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-2017)
 26. [UDF-limitations-restrictions](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/create-user-defined-functions-database-engine?view=sql-server-2017)
 27. [row-level-security](https://docs.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-2017)
+28. [dynamic-sql](http://www.sommarskog.se/dynamic_sql.html)
+29. [permissions-in-sp](http://www.sommarskog.se/grantperm.html)
+30. [error-handling-p1](http://www.sommarskog.se/error_handling/Part1.html)
+31. [error-handling-p2](http://www.sommarskog.se/error_handling/Part2.html)
+32. [FORMATMESSAGE](https://docs.microsoft.com/en-us/sql/t-sql/functions/formatmessage-transact-sql?view=sql-server-2017)
+33. [THE-WORLD-SEQUENCE](http://dangerousdba.blogspot.com/2011/10/day-sequences-saved-world.html)
+
 
 ### quizlet
 
