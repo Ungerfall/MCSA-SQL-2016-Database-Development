@@ -5,3 +5,4 @@
 5. [ ]  [Configuring partitioned views](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql?view=sql-server-ver15)
 6. [ ]  [Linked servers](https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/linked-servers-database-engine)
 6. [ ]  [Column oriented database](http://db.csail.mit.edu/pubs/abadi-column-stores.pdf)
+7. [ ]  [Columnstore indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview?redirectedfrom=MSDN&view=sql-server-ver15)
