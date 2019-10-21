@@ -6,3 +6,4 @@
 6. [ ]  [Linked servers](https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/linked-servers-database-engine)
 6. [ ]  [Column oriented database](http://db.csail.mit.edu/pubs/abadi-column-stores.pdf)
 7. [ ]  [Columnstore indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview?redirectedfrom=MSDN&view=sql-server-ver15)
+8. [ ]  [Clustered columnstore index](http://www.nikoport.com/2015/09/06/columnstore-indexes-part-65-clustered-columnstore-improvements-in-sql-server-2016/)
