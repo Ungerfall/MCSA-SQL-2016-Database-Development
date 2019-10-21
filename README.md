@@ -45,6 +45,17 @@
 32. [FORMATMESSAGE](https://docs.microsoft.com/en-us/sql/t-sql/functions/formatmessage-transact-sql?view=sql-server-2017)
 33. [THE-WORLD-SEQUENCE](http://dangerousdba.blogspot.com/2011/10/day-sequences-saved-world.html)
 
+#### 70-762
+
+1. Pro SQL Server Relational Database Design and Implementation (book)
+2. [Using Identifiers As Object Names](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms187879(v=sql.105))
+3. Expert Performance Indexing in SQL Server (book)
+4. [Klustering keys](http://www.sqlskills.com/blogs/kimberly/category/clustering-key/)
+5. [Configuring partitioned views](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql?view=sql-server-ver15)
+6. [Linked servers](https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/linked-servers-database-engine)
+6. [Column oriented database](http://db.csail.mit.edu/pubs/abadi-column-stores.pdf)
+7. [Columnstore indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview?redirectedfrom=MSDN&view=sql-server-ver15)
+8. [Clustered columnstore index](http://www.nikoport.com/2015/09/06/columnstore-indexes-part-65-clustered-columnstore-improvements-in-sql-server-2016/)
 
 ### quizlet
 
