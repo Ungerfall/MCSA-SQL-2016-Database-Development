@@ -9,3 +9,4 @@
 8. [ ]  [Clustered columnstore index](http://www.nikoport.com/2015/09/06/columnstore-indexes-part-65-clustered-columnstore-improvements-in-sql-server-2016/)
 9. [ ]  [USING COLUMNSTORE INDEXES FOR REAL-TIME ANALYTICS](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/get-started-with-columnstore-for-real-time-operational-analytics?redirectedfrom=MSDN&view=sql-server-ver15)
 10. [ ]  [real time analytics for columnstore index](https://blogs.msdn.microsoft.com/sqlserverstorageengine/2016/03/06/real-time-operational-analytics-filtered-nonclustered-columnstore-index-ncci/)
+11. [ ]  [parallel insert](https://blogs.msdn.microsoft.com/sql-cat/2016/07/21/real-world-parallel-insert-what-else-you-need-to-know/)
