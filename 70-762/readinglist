@@ -7,3 +7,4 @@
 6. [ ]  [Column oriented database](http://db.csail.mit.edu/pubs/abadi-column-stores.pdf)
 7. [ ]  [Columnstore indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview?redirectedfrom=MSDN&view=sql-server-ver15)
 8. [ ]  [Clustered columnstore index](http://www.nikoport.com/2015/09/06/columnstore-indexes-part-65-clustered-columnstore-improvements-in-sql-server-2016/)
+9. [ ]  [USING COLUMNSTORE INDEXES FOR REAL-TIME ANALYTICS](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/get-started-with-columnstore-for-real-time-operational-analytics?redirectedfrom=MSDN&view=sql-server-ver15)
