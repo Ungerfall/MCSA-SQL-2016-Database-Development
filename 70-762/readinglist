@@ -14,3 +14,4 @@
 13. [ ]  [columnstore maintance](http://www.nikoport.com/2014/07/29/clustered-columnstore-indexes-part-36-maintenance-solutions-for-columnstore/)
 14. [ ]  [tuple mover](http://rusanu.com/2013/12/02/sql-server-clustered-col-umnstore-tuple-mover/)
 15. [ ]  [columnstore data loading](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-data-loading-guidance?redirectedfrom=MSDN&view=sql-server-ver15)
+16. [ ]  [CHECK constraint](https://docs.microsoft.com/en-us/sql/relational-databases/tables/unique-constraints-and-check-constraints?redirectedfrom=MSDN&view=sql-server-ver15#Check)
