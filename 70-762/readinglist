@@ -16,3 +16,4 @@
 15. [ ]  [columnstore data loading](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-data-loading-guidance?redirectedfrom=MSDN&view=sql-server-ver15)
 16. [ ]  [CHECK constraint](https://docs.microsoft.com/en-us/sql/relational-databases/tables/unique-constraints-and-check-constraints?redirectedfrom=MSDN&view=sql-server-ver15#Check)
 17. [ ]  [CTE basics](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-cte-basics/)
+18. [ ]  [DATATYPE CONVERSION AND PRECEDENCE](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-type-precedence-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
