@@ -17,3 +17,4 @@
 16. [ ]  [CHECK constraint](https://docs.microsoft.com/en-us/sql/relational-databases/tables/unique-constraints-and-check-constraints?redirectedfrom=MSDN&view=sql-server-ver15#Check)
 17. [ ]  [CTE basics](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-cte-basics/)
 18. [ ]  [DATATYPE CONVERSION AND PRECEDENCE](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-type-precedence-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
+19. [x]  [THROW VS RAISERROR](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/throw-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
