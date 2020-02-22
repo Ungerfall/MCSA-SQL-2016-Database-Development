@@ -21,3 +21,4 @@
 20. [ ]  [ERROR HANDLING](http://sommarskog.se/error_handling/Part1.html)
 21. [ ]  [CREATE TRIGGER](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
 22. [ ]  [Trigger order](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-settriggerorder-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
+23. [x]  [Nested and recursive triggers](https://docs.microsoft.com/en-us/sql/relational-databases/triggers/create-nested-triggers?redirectedfrom=MSDN&view=sql-server-ver15)
