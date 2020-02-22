@@ -20,3 +20,4 @@
 19. [x]  [THROW VS RAISERROR](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/throw-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
 20. [ ]  [ERROR HANDLING](http://sommarskog.se/error_handling/Part1.html)
 21. [ ]  [CREATE TRIGGER](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
+22. [ ]  [Trigger order](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-settriggerorder-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
