@@ -25,3 +25,4 @@
 24. [ ]  [DDL triggers 1](https://www.mssqltips.com/sqlservertip/2085/sql-server-ddl-triggers-to-track-all-database-changes/)
 25. [ ]  [DDL triggers 2](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms190989(v=sql.105)?redirectedfrom=MSDN)
 26. [ ]  [LOGON triggers](https://docs.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers?redirectedfrom=MSDN&view=sql-server-ver15)
+27. [ ]  [UDF](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/create-user-defined-functions-database-engine?redirectedfrom=MSDN&view=sql-server-ver15)
