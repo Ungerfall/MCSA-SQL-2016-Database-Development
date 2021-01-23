@@ -26,3 +26,4 @@
 25. [ ]  [DDL triggers 2](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms190989(v=sql.105)?redirectedfrom=MSDN)
 26. [ ]  [LOGON triggers](https://docs.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers?redirectedfrom=MSDN&view=sql-server-ver15)
 27. [ ]  [UDF](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/create-user-defined-functions-database-engine?redirectedfrom=MSDN&view=sql-server-ver15)
+28. [ ]  [DBCC SHOW_STATISTICS](https://docs.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-show-statistics-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
